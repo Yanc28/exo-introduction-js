@@ -1,2 +1,1 @@
-ALYRA
 # exo-introduction-js
