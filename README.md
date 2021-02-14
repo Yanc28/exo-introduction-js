@@ -1,1 +1,1 @@
-# exo-introduction-js
+exo-introduction-js
